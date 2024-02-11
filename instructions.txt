@@ -1,0 +1,15 @@
+
+INSTRUCTIONS FROM CREATORS
+--------------------------
+
+1. All Entries related to being primary key of a table are expected in 'CAPITAL' case.
+2. 'Title' case is expected for all service explanations.
+3. You are requested to read all instructions carefully before entering any options.
+4. All payments are expected in 'CASH' or 'CARD'.
+5. For adding any additional requirements into this software, please contact the authorized creators.
+6. Authorization code and Username are different values.
+7. You are expected to enter the 'NUMBER' put behind every command in the query down below.
+8. Company Performance is calculated without the consideration os salary.
+9. All details cn be displayed only in a decent manner and hence are requred to follow rules and regulations.
+10. While new cars are being added, paste cars photo in '250x150' pixel size in the folder 'C:\Users\ds_20\Desktop\Car Rental System'.
+
